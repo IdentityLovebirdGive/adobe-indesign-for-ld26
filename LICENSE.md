@@ -1,4 +1,4 @@
-# 
+# automatic Script for Adobe InDesign for macOS - plugin support and non-destructive editing offers the most advanced Adobe InDesign for macOS script, with plugin support and
 
 
 
